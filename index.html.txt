@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="sample.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons"></head>
+
+<body>
+    <div class="card">
+        <i class="material-icons" style="color: skyblue;">cloud</i>
+        <img src="snow.jpg" height="100px" width="200px">
+        <h2>Travel</h2>
+        <h3>Trip Planing for total<br> Beginers</h3>
+        <span> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Beatae, debitis reprehenderit vero eius veritatis
+            numquam, quis in nostrum aspernatur neque repudiandae dolorem distinctio quasi optio odit, deleniti
+            praesentium hic dignissimos!</span>
+    </div>
+    <div class="card2">
+        <i class="material-icons" style="color: red;">favorite</i>
+        <img src="desert.jpg" height="100px" width="200px">
+        <h2>Travel</h2>
+        <h3>7 Ways to Survive in Desert</h3>
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nisi ipsam natus illum laborum voluptate quae, in,
+            numquam distinctio magni, facere esse dignissimos similique qui. Aliquid perspiciatis iste rem saepe ex.</p>
+    </div>
+    <div class="card3">
+        <i class="material-icons">attachment</i>
+        <img src="mountain.jpg" height="100px" width="200px">
+        <h2>Travel</h2>
+        <h3>5 Amazing Travel Destination</h3>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores eius ex tempore quod inventore delectus
+            architecto assumenda ducimus esse dolor fuga nulla adipisci fugit voluptatibus velit provident id, qui
+            explicabo?</p>
+
+    </div>
+    <div class="card4">
+        <i class="material-icons" style="color:lightcoral;">computer</i>
+        
+        <img src="water.jpg" height="100px" width="200px">
+        <h2>Travel</h2>
+        <h3>Travel Pro-Tips from Canadians</h3>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi, quis eveniet possimus magnam impedit nemo veritatis assumenda asperiores id illo harum suscipit minima optio dolores minus. Odio eum sit recusandae.</p>
+
+
+    </div>
+    <div class="card4">
+        <i class="material-icons" style="background: linear-gradient(to right,red,orange,green);">traffic</i>
+        <img src="water.jpg" height="100px" width="200px">
+        <h2>Travel</h2>
+        <h3>Travel Pro-Tips from Canadians</h3>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi, quis eveniet possimus magnam impedit nemo veritatis assumenda asperiores id illo harum suscipit minima optio dolores minus. Odio eum sit recusandae.</p>
+
+
+    </div>
+    <div class="card4">
+        <i class="material-icons">accessibility</i>
+        <img src="water.jpg" height="100px" width="200px">
+        <h2>Travel</h2>
+        <h3>Travel Pro-Tips from Canadians</h3>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi, quis eveniet possimus magnam impedit nemo veritatis assumenda asperiores id illo harum suscipit minima optio dolores minus. Odio eum sit recusandae.</p>
+
+
+    </div>
+    <div class="card4">
+        <i class="material-icons">accessibility</i>
+        <img src="water.jpg" height="100px" width="200px">
+        <h2>Travel</h2>
+        <h3>Travel Pro-Tips from Canadians</h3>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi, quis eveniet possimus magnam impedit nemo veritatis assumenda asperiores id illo harum suscipit minima optio dolores minus. Odio eum sit recusandae.</p>
+
+
+    </div>
+
+
+
+
+
+</body>
+
+</html>
